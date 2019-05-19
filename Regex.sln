@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegexExample", "Regex\RegexExample.csproj", "{B218F0D4-8D39-46A8-82EF-74EBC4438445}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexExampleTests", "RegexExampleTests\RegexExampleTests.csproj", "{06E3FA8F-A7E6-436E-AC87-A0DFF3116C8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B218F0D4-8D39-46A8-82EF-74EBC4438445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B218F0D4-8D39-46A8-82EF-74EBC4438445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B218F0D4-8D39-46A8-82EF-74EBC4438445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B218F0D4-8D39-46A8-82EF-74EBC4438445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06E3FA8F-A7E6-436E-AC87-A0DFF3116C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E3FA8F-A7E6-436E-AC87-A0DFF3116C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E3FA8F-A7E6-436E-AC87-A0DFF3116C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E3FA8F-A7E6-436E-AC87-A0DFF3116C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3B443B1-1F41-4485-BF73-3C3622710F21}
+	EndGlobalSection
+EndGlobal
